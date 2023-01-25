@@ -1,0 +1,71 @@
+Text Editor:
+- vim
+- neovim
+- vi
+- micro
+- gedit
+
+Package Manager :
+- yay
+
+Window Manager :
+- lightdm
+- lightdm-gtk-greeter
+- i3
+- i3-gaps
+- picom
+- rofi
+
+Notification :
+- dunst
+
+Markdown Editor :
+- Abricotine
+
+Terminal :
+- Alacritty
+
+Music :
+- pulseaudio
+- cmus
+- playerctl
+
+Background :
+- Nitrogen
+
+Screenshot :
+- flameshot
+
+Development :
+- Jetbrains Toolbox
+- Docker
+- Git
+- Lazydocker
+- Postman
+
+File explorer :
+- nemo
+
+Social Media :
+- discord
+
+Other :
+- notion
+
+System :
+- systemd
+
+Network :
+- NetworkMangager
+- iwd
+- bluetooth
+- bluez
+- bluez-utils
+- bluetoothctl
+
+C :
+- valgrind
+- gdb
+
+- Shell :
+- zsh
